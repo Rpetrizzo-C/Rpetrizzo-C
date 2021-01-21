@@ -10,7 +10,7 @@
 Rodrigo = {
   "age": "19",
   "code": "Javascript, HTML, CSS, Python",
-  "tools": "Bootstrap, Flask, Django, Node"
+  "tools": "Bootstrap, Flask, Django, Angular, Node"
 }
 ```
 - I’m currently working on Multi-Vendor Ecommerce Website
