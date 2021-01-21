@@ -1,7 +1,6 @@
 # Rodrigo Petrizzo
----
-### Hi there 👋
 
+### Hi there 👋
 - #### I’m currently working on Multi-Vendor Ecommerce Website
 - #### 🌱 I’m currently learning:
     - ##### JavaScript
