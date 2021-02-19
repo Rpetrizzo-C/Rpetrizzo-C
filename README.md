@@ -13,6 +13,6 @@ Rodrigo = {
   "tools": "Bootstrap, Flask, Django, Angular, Node"
 }
 ```
-- I’m currently working on Multi-Vendor Ecommerce Website
+
 - 📫 How to reach me: petrizzo.rodrigoa@gmail.com
 
