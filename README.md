@@ -9,8 +9,8 @@
 ```python
 Rodrigo = {
   "age": "21",
-  "code": "Python, JS, Html, Css",
-  "tools": "Django, Flask, React, NextJS, Celery, Docker, AWS, Numpy, Pandas"
+  "code": "Python, JS",
+  "tools": "Django, Flask, FastAPI, Docker, AWS"
 }
 ```
 
